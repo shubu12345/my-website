@@ -1,0 +1,198 @@
+body{
+    margin: 20px 20px 0 20px;
+}
+
+#profession{
+    width: 100%;
+    background-color: #FF5151;
+    text-align: center;
+}
+.anim{
+    align-items: center;
+}
+.name {
+    text-align: center;
+    margin-top: 40px;
+    /*font-family: 'Courgette', cursive;*/
+    font-family: 'Dancing Script', cursive;
+    font-size: 3.5rem;
+    color: white;
+}
+.cnt-btn {
+    margin-top: 40px;
+    
+}
+.intro {
+    padding: 0 0 5% 0;
+}
+.prof{
+    font-size: 1.5rem;
+    color: white;
+}
+.insta{
+    background-color: tomato;
+
+}
+.my-photo{
+    border-radius: 100%;
+    text-align: center;
+}
+#about-me{
+    text-align: center;
+    margin: 40px 20px 0 20px;
+}
+.my-goal{
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+.descrip{
+    text-align: left;
+    line-height: 2;
+}
+.social{
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+#about-me{
+    padding-bottom: 30px;
+}
+.my-team{
+    padding-bottom: 20px;
+}
+.code {
+    color: turquoise;
+    text-align: center;
+}
+
+/*********************************************************/
+.my-card
+{
+    position:absolute;
+    left:40%;
+    top:-20px;
+    border-radius:50%;
+
+}
+h1{
+    text-align: center;
+    padding: 2%;
+}
+.jumbotron{
+    background-color: #fff;
+    
+}
+.language{
+    text-align: center;
+    left:40%;
+    top:-20px;
+    border-radius:50%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 5%;
+    
+}
+.social{
+    padding:5px;
+    text-align: center;
+
+}
+.s-icon{
+    padding:5px;
+
+}
+#skills{
+    background-color: #88E0EF;
+    text-align: center;
+    align-items: center;
+    padding-bottom: 50px;
+}
+.box{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    align-items: center;
+
+}
+.line-skill{
+    padding-bottom: 30px;
+}
+.box-next{
+    padding-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.quote{
+    padding-top: 5%;
+}
+.ins{
+    width: auto;
+    height: auto;
+}
+
+#inspiring{
+    text-align: center;
+    padding-bottom: 10%;
+}
+
+.persons{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    
+}
+.quotes{
+    padding-top: 5%;
+    font-size: 1.5rem;
+    text-align: center;
+    line-height: 1.5;
+    font-family: 'Roboto', sans-serif;
+}
+.carousel-inner{
+    height: 400px;
+}
+
+#contact-me{
+    background-color: #FF5151;
+    color: white;
+    padding-bottom: 5%;
+}
+.work{
+    text-align: center;
+    font-size: 1.5rem;
+}
+.message{
+    font-size: 2rem;
+    margin-left: 150px;
+    padding-top: 2%;
+}
+
+.input{
+    margin-left: 150px;
+    width: 50%;
+    text-align: center;
+    padding: 3%;
+    box-shadow: gray;
+    background-color: wheat;
+    
+}
+
+.footer {
+    text-align: center;
+    padding-top: 4%;
+    color: white;
+}
+
+.my-name {
+    font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
+    color: skyblue;
+    font-weight: bold;
+}
+.foot-text{
+    text-align: left;
+    margin-left: 150px;
+}
