@@ -36,6 +36,7 @@ body{
 .my-photo{
     border-radius: 100%;
     text-align: center;
+    padding: 10px;
 }
 #about-me{
     text-align: center;
@@ -56,6 +57,7 @@ body{
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
+    border-radius: 30%;
 }
 #about-me{
     padding-bottom: 30px;
@@ -174,7 +176,7 @@ h1{
     margin-left: 150px;
     width: 50%;
     text-align: center;
-    padding: 3%;
+    padding: 2%;
     box-shadow: gray;
     background-color: wheat;
     
@@ -196,3 +198,36 @@ h1{
     text-align: left;
     margin-left: 150px;
 }
+
+.prof{
+    overflow: hidden;
+    justify-content: center;
+    margin: 0 auto;
+    white-space: nowrap;
+    letter-spacing: .15em;
+    animation: typing 3.5s steps(30, end),
+    blink-text .5s step-end infinite;
+}
+
+@keyframes typing {
+from {
+    width: 0%;
+}
+to {
+     width: 100%
+}
+
+    
+}
+@keyframes blink-text {
+from,
+    to{
+        border-color: transparent;
+    }
+    50%
+    {
+        border-color: white;
+    }
+    
+}
+
