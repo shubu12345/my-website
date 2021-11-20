@@ -28,3 +28,5 @@ function textChange(val)
 }
 } 
 textChange(0)
+
+var scroll = new SmoothScroll('a[href*="id"]');
